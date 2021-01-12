@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: KO4JZT
+author: Colin
 email: colin@ko4jzt.tech
 description: >- # this means to ignore newlines until "baseurl:"
   17 year old Technician class operator. Interested in DMR, Satellite Comms, DXing, and
