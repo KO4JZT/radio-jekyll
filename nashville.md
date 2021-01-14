@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Nashville
 permalink: /nashville/
 ---
+
+## Nashville
 
 Nashville is a great place to be as a radio amateur. With a variety of clubs, ARES groups, repeaters across town, you're set with fun hams all around. This document hopes to compile a list of popular repeaters in the city, associated nets, clubs, events, and more. 
 
