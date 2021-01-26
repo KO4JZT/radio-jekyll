@@ -2,6 +2,7 @@
 title: 'How I setup my DMR Hotspot'
 layout: post
 date: 2021-1-25
+comments: true
 ---
 
 On Black Friday I picked up a Radioddity GD-77 DMR radio on sale for around $75. Getting into radio, I had a great interest in these digital-over-internet modes and picked it up to see what I could do. Sadly, all DMR repeaters are barely reachable from my QTH and the ones I can barely reach are really hard to find good information on for a codeplug. Useful when I go out, not very useful for home operation. So, I picked up some equipment to build a Pi-Star DMR Hotspot and thought I'd share some information on how I did it.
