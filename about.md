@@ -2,33 +2,66 @@
 layout: page
 title: About
 permalink: /about/
+updated: 2-17-2021
 ---
 
-👋 Hi there! Glad you've stumbled upon my website!
+👋 Hi there! Glad you stumbled upon my website!
 
-## About Me
+## Quick Bio
 
-I'm Colin, a 17 year old amateur radio operator currently based out of Nashville, TN. Currently, I spend my time listening in to activity on VHF/UHF repeaters near me. 
+My name is Colin, I am a 17 year old amateur radio operator with a QTH in Nashville, TN and a Technician class license. My interests in radio are wide-spread, but focused on the software side of things.
 
-I enjoy writing about programming and self-care at my website [Mystic Speech](https://mysticspeech.com). I'm [@KO4JZT](https://twitter.com/ko4jzt) on Twitter now, happy to reply to anything that comes my way! Made a contact with me and want to reach out? Feel free to email me on the public email address in the footer or on my [QRZ page](https://www.qrz.com/db/KO4JZT).
+## Interests in Radio
 
-My primary interests in radio include:
-- Digital Voice Methods (DMR, YSF, D-Star, etc.)
-- Satellite Communications
-- Custom Antenna Design
-- CW
+### DMR
 
-### My History in Radio
+I enjoy working with DMR and other digital modes! My current setup for DMR is a Radioddity GD-77 running the OpenGD77 firmware and a [custom-built Pi-Star hotspot](/2021/01/26/my-dmr-hotspot/). 
+
+You can typically catch me in Brandmeister talkgroups 98638 and 31621. I typically check-in at the weekly Ham Radio Village net at 8pm CT Tuesday nights on TG98638.
+
+My upcoming goals in DMR and digital voice are: 
+- [ ] Upgrade to the Anytone 878 radio for DMR
+- [ ] Get more radios for operating other modes (D-Star, YSF)
+- [ ] Build my own small-scale DMR network
+
+### Satellites
+
+Working stations all over the world on Satellite passes with VHF/UHF seems very intriguing to me! At the moment, I am working on building up the capability to work satellites - if you've stumbled on this page after working me on a satellite let me know to update it!
+
+I currently listen to satellites with a Baofeng UV-5R and a DIY tape measure yagi antenna built for 2m. I'm looking to get a Duplex setup going and then move to making contacts if possible!
+
+### DXing
+
+As of last updating this page - I am studying for my General class license and trying to get my hands on an HF station. Once I move to HF, I plan on trying to make many long distance contacts over SSB Voice, FT8, and JS8Call.
+
+Below will be an updated count of my progress towards various awards! Hopefully I will soon be able to automate this.
+
+<!-- TODO: Can this be automated? -->
+* Worked All Continents - 0/6
+* Worked All States - 0/50
+* DXCC - 0/100
+
+## My Radio Timeline
 
 December 2020 - Technician License Acquired as KO4JZT
 
-### My Equipment
+## My Equipment
 
-I primarily use a Baofeng UV-5R as an everyday carry radio, with an 18-inch ABBREE SMA-Female antenna attached to it. I use this to scan a variety of local repeaters and simplex frequencies when I'm at home and out and about to see what I can pick up.
+* Baofeng UV-5R w/ Super Elastic Signal Stick Antenna
+* Radioddity GD-77 w/ Nagoya NA-771 Antenna
+* Random Mag-Mount Mobile Antenna on Car with BNC Connector for any Radio
+* Custom Build Pi-Star DMR Hotspot
 
-I also have a Radioddity GD-77 DMR HT running OpenGD77 firmware for DMR communications. I use this occasionally, but there are not as many DMR repeaters near me that I can hit with a 5W HT, so I am waiting till I have a local PiStar hotspot to use. I keep a Nagoya NA-771 SMA-Male antenna on this radio.
+### Dream Radios
 
-My dream radios are a Yaesu FT-2DR and the Kenwood TH-D74A handhelds.
+* Icom IC-705 
+* Icom IC-7300
+* Yaesu FT-2DR
+* Anytone 878
+
+## Contact Me
+
+I enjoy writing about programming and self-care at my website [Mystic Speech](https://mysticspeech.com). I'm [@KO4JZT](https://twitter.com/ko4jzt) on Twitter now, happy to reply to anything that comes my way! Made a contact with me and want to reach out? Feel free to email me on the public email address in the footer or on my [QRZ page](https://www.qrz.com/db/KO4JZT).
 
 ## About the Site
 
