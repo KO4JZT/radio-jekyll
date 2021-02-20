@@ -20,9 +20,10 @@ I enjoy working with DMR and other digital modes! My current setup for DMR is a 
 You can typically catch me in Brandmeister talkgroups 98638 and 31621. I typically check-in at the weekly Ham Radio Village net at 8pm CT Tuesday nights on TG98638.
 
 My upcoming goals in DMR and digital voice are: 
-- [ ] Upgrade to the Anytone 878 radio for DMR
-- [ ] Get more radios for operating other modes (D-Star, YSF)
-- [ ] Build my own small-scale DMR network
+
+* Upgrade to the Anytone 878 radio for DMR
+* Get more radios for operating other modes (D-Star, YSF)
+*  Build my own small-scale DMR network
 
 ### Satellites
 

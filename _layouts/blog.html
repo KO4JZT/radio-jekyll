@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if site.posts.size > 0 -%}
+    <ul class='post-list'>
+      {% for post in site.posts %}
+      {% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
+      {% if currentyear != year %}
+        {% unless forloop.first %}
+          </ul>
+        {% endunless %}
+        <h1>{{ currentyear }}</h1>
+        <ul>
+        {% capture year %}{{ currentyear }}{% endcapture %}
+      {% endif %}
+        <li>
+          <a href="{{ post.url }}">
+            <b>
+              {{ post.title }}
+            </b>
+          </a>-
+          <time>{{ post.date | date: "%B %-d, %Y" }}</time>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+</div>

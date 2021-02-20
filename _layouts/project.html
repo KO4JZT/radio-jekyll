@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+  <header class="project-header">
+    <h1 class="project-title" itemprop="name headline">{{ page.title | escape }}</h1>
+	<em><h2 class='project-description'>{{ page.description | escape }}</h2></em>
+	<h3><button class="project-link"><a href={{ page.link }}>Check out the project!</a></button></h3>
+  </header>
+
+  <div class="project-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+  
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
