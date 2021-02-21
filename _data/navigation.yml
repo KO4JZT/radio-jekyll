@@ -6,10 +6,14 @@
   url: /portfolio
 - title: Interests
   sublinks:
-    - title: FAQ
-      url: /faq.html
-    - title: Documentation
-      url: /documentation.html
-    - title: separator
-    - title: Customer Support
-      url: /customer-support.html
+    - title: Amateur Radio
+      url: /amateur-radio
+    - title: Music
+      url: /music
+    - title: Gaming
+      url: /gaming
+- title: Radio in...
+  url: /radio-in
+  sublinks:
+    - title: Nashville
+      url: /radio-in/nashville

@@ -3,6 +3,7 @@ title: 'How I setup my DMR Hotspot'
 layout: post
 date: 2021-1-26
 comments: true
+category: amateur-radio
 ---
 
 <img src='https://ko4jzt.s3.amazonaws.com/site/images/2020-1-26-dmr-hotspot.jpg?thumbnail' width='35%' height='35%' alt='Image of DMR hotspot'>
