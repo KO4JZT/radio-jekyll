@@ -15,7 +15,7 @@ I play a lot of games on PC, Playstation, and the Nintendo Switch. I'll keep thi
 
 # Blog Posts
 <!-- TODO: Update these links. -->
-Below are my most recent blog posts specific to gaming - check them out here or at [the gaming category](), or at my [general blog page](/blog).
+Below are my most recent blog posts specific to gaming - check all of them them out here or at my [general blog page](/blog).
 
 <ul>
     {%- for post in site.categories.gaming limit:5 -%}

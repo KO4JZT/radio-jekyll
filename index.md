@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<div align='center'>
+<div align='center' style='margin-bottom: 20px;'>
     <img src='/assets/logo_transparent.png' height='20%' width='20%'>
 </div>
 

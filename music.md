@@ -13,7 +13,7 @@ I'll start to update this page soon with playlists as I create them.
 
 # Blog Posts
 <!-- TODO: Update these links. -->
-Below are my most recent blog posts specific to music - check them out here or at [the music category](), or at my [general blog page](/blog).
+Below are my most recent blog posts specific to music - check all of them them out here or at my [general blog page](/blog).
 
 <ul>
     {%- for post in site.categories.music limit:5 -%}
