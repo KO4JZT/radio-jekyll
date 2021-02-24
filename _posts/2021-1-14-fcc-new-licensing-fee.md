@@ -2,6 +2,7 @@
 title: 'FCC Implements New Fee for Licensing'
 layout: post
 date: 2021-1-14
+category: amateur-radio
 ---
 
 The following article was written for my final project in a semester-long Journalism class. Seeing as it covers recent topics in amateur radio, I thought it would be fitting to add the post here as well. 

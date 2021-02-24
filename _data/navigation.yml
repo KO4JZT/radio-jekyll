@@ -1,0 +1,19 @@
+- title: About
+  url: /about
+- title: Blog
+  url: /blog
+- title: Portfolio
+  url: /portfolio
+- title: Interests
+  sublinks:
+    - title: Amateur Radio
+      url: /amateur-radio
+    - title: Music
+      url: /music
+    - title: Gaming
+      url: /gaming
+- title: Radio in...
+  url: /radio-in
+  sublinks:
+    - title: Nashville
+      url: /radio-in/nashville

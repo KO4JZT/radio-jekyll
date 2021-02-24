@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Nashville
-permalink: /nashville/
+title: Radio In Nashville
+updated: 2-20-2021
 ---
 
 Nashville is a great place to be as a radio amateur. With a variety of clubs, ARES groups, repeaters across town, you're set with fun hams all around. This document hopes to compile a list of popular repeaters in the city, associated nets, clubs, events, and more. 
@@ -12,8 +12,8 @@ Got something to contribute? This page is [open-source](https://github.com/KO4JZ
     1. [2m Analog](#2m-analog)
     2. [70cm Analog](#70cm-analog)
     3. [WCARES Network](#Williamson-County-ARES-Network)
-        a. [Analog](#analog)
-        b. [Digital Mobile Radio](#dmr)
+        * [Analog](#analog)
+        * [Digital Mobile Radio](#dmr)
     4. [MTEARS](#MTEARS)
 2. Clubs
 3. Nets
