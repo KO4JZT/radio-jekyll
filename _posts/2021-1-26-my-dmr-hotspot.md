@@ -6,7 +6,7 @@ comments: true
 category: amateur-radio
 ---
 
-<img src='https://ko4jzt.s3.amazonaws.com/site/images/2020-1-26-dmr-hotspot.jpg?thumbnail' width='35%' height='35%' alt='Image of DMR hotspot'>
+<img src='https://ko4jzt.s3.amazonaws.com/site/images/blog/2020-1-26-dmr-hotspot.jpg' width='35%' height='35%' alt='Image of DMR hotspot'>
 
 On Black Friday I picked up a Radioddity GD-77 DMR radio on sale for around $75. Getting into radio, I had a great interest in these digital-over-internet modes and picked it up to see what I could do. Sadly, all DMR repeaters are barely reachable from my QTH and the ones I can barely reach are really hard to find good information on for a codeplug. Useful when I go out, not very useful for home operation. So, I picked up some equipment to build a Pi-Star DMR Hotspot and thought I'd share some information on how I did it.
 

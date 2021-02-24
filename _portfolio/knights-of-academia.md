@@ -4,7 +4,7 @@ layout: project
 description: Web platform for an online learning community built in Wordpress.
 date: October 16 2019
 link: https://knightsofacademia.org
-image: /assets/projects/KOA/koa-1.jpg
+image: https://ko4jzt.s3.amazonaws.com/site/images/projects/koa/koa-1.jpg
 ---
 
 <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel" style='margin-bottom: 20px;'>
@@ -15,13 +15,13 @@ image: /assets/projects/KOA/koa-1.jpg
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
-      <img src="/assets/projects/koa/koa-1.jpg" class="d-block w-100" alt="...">
+      <img src=https://ko4jzt.s3.amazonaws.com/site/images/projects/koa/koa-1.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-      <img src="/assets/projects/koa/koa-2.jpg" class="d-block w-100" alt="...">
+      <img src="https://ko4jzt.s3.amazonaws.com/site/images/projects/koa/koa-2.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="/assets/projects/koa/koa-3.jpg" class="d-block w-100" alt="...">
+      <img src="https://ko4jzt.s3.amazonaws.com/site/images/projects/koa/koa-3.jpg" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark"  data-bs-slide="prev">

@@ -16,7 +16,7 @@
 title: KO4JZT
 author: Colin
 description: >- # this means to ignore newlines until "baseurl:"
-  17 year old amateur radio operator and full-stack web developer focused on
+  Amateur radio operator and full-stack web developer focused on
   DMR/DXing/music/gaming.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
