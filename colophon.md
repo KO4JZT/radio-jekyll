@@ -2,7 +2,7 @@
 layout: page
 title: Colophon
 permalink: /colophon/
-updated: 2-19-2021
+updated: 3-14-2021
 ---
 
 👋 Hi there! Glad you stumbled upon my website!
