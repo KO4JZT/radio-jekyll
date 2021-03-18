@@ -12,8 +12,3 @@
       url: /music
     - title: Gaming
       url: /gaming
-- title: Radio in...
-  url: /radio-in
-  sublinks:
-    - title: Nashville
-      url: /radio-in/nashville
